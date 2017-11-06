@@ -1,0 +1,15 @@
+citHeader("To cite dcminfo package in publications use:")
+
+citEntry(entry = "Manual",
+  title        = "{dcminfo: Information Matrix for Diagnostic Classification Models}",
+  author       = as.person("Liu, Y. and Xin, T."),
+  year         = "2017",
+  note         = "R package version 0.1.6",
+  url          = "https://CRAN.R-project.org/package=dcminfo",
+
+  textVersion  =
+  paste("Liu, Y. & Xin, T. (2017).",
+        "dcminfo: Information Matrix for Diagnostic Classification Models",
+        "R package version 0.1.7. Retrived from https://CRAN.R-project.org/package=dcminfo")
+)
+
